@@ -60,6 +60,7 @@ code {
 }
 #more-link {
     text-decoration: none;
+    color: blue;
 }
 #more-link:hover {
     text-decoration: underline;
