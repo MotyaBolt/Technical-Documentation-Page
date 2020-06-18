@@ -58,3 +58,9 @@ code {
         height: 100%;
     }
 }
+#more-link {
+    text-decoration: none;
+}
+#more-link:hover {
+    text-decoration: underline;
+}
